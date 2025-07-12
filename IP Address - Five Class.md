@@ -30,6 +30,7 @@ Some points to be noted about dotted decimal notation:
 The value of any segment (byte) is between 0 and 255 (both included).
 No zeroes preceding the value in any segment (054 is wrong, 54 is correct).
 Dotted Decimal Notation
+
 <img width="634" height="214" alt="image" src="https://github.com/user-attachments/assets/a4a98678-9247-4c85-baf8-91debd7ceb28" />
 
 ## Hexadecimal Notation
